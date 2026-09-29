@@ -6,9 +6,10 @@
 
 React · Next.js · TypeScript · Node.js — Tashkent, Uzbekistan · Open to remote & relocation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnatbekyusupov/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnatbee/)
 [![Website](https://img.shields.io/badge/sunnatbekyusupov.uz-111111?style=flat-square&logo=vercel&logoColor=white)](https://sunnatbekyusupov.uz)
 [![Aidevix](https://img.shields.io/badge/aidevix.uz-6D28D9?style=flat-square&logo=googlechrome&logoColor=white)](https://aidevix.uz)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/sunnatbekdev)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/aidevix)
 
 </div>
@@ -49,4 +50,4 @@ I build and ship production web products end to end — from frontend architectu
 
 ### Contact
 
-Open to senior frontend / team lead roles (remote or relocation) and to collaboration on AI and EdTech products — reach me on [LinkedIn](https://www.linkedin.com/in/sunnatbekyusupov/) or [Telegram](https://t.me/aidevix).
+Open to senior frontend / team lead roles (remote or relocation) and to collaboration on AI and EdTech products — reach me on [LinkedIn](https://www.linkedin.com/in/sunnatbee/) or [Telegram](https://t.me/aidevix).
